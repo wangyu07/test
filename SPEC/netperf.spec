@@ -48,4 +48,4 @@ test "$RPM_BUILD_ROOT" = "/"    || rm -rf $RPM_BUILD_ROOT
 %changelog
 * Sat Jun 17 2006 Martin A. Brown <martin@linux-ip.net>
 * initial contributed specfile for netperf package (v2.4.2)
-- Sat Sep 22 2017 yu.wang <wy200885@163.com> :make rmp package for ARM64
+- Sep 22 2017 yu.wang <wy200885@163.com> :make rpm package for ARM64
