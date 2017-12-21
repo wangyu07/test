@@ -1,3 +1,0 @@
-metadata:    name: vmall-functional-tests    format: "VMALL-Test-Shell Test Definition 1.0"    description: "Runs VMALL Functional Tests"
-#install:#    deps:#        - python#        - git
-run:    steps:        - "cd /root/vmall-input-V2.4; ./run.sh 1 10000 100 1"
